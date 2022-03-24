@@ -1,0 +1,30 @@
+{
+    "name": "fastaxios",
+    "version": "1.0.0",
+    "description": "Fastaxios is the npm package build on-top of the axios npm package library.",
+    "keywords": [
+      "axios",
+      "fast",
+      "network call"
+    ],
+    "homepage": "https://github.com/e-kibet/fastaxios",
+    "bugs": {
+      "url": "https://github.com/e-kibet/fastaxios/issues",
+      "email": "evanskibet114@gmail.com"
+    },
+    "main": "index.js",
+    "scripts": {
+      "test": "mocha"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/e-kibet/fastaxios.git"
+    },
+    "author": "Evans Kiptarus Kibet <evanskibet114@gmail.com> (ekibet.co.ke)",
+    "license": "MIT",
+    "private": false,
+    "engines": {
+      "node": ">=6.0.0"
+    },
+    "engineStrict": true
+  }
